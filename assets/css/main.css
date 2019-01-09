@@ -8576,3 +8576,7 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+			.image-show{
+				height: 500px;
+			}
