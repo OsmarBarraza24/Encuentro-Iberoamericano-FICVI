@@ -8598,7 +8598,7 @@ input, select, textarea {
 				justify-content: space-around;
 			}
 
-			@media (max-width:800px){
+			@media (max-width:676px){
 				.cover{
 					height: 400px;
 					width: 100%;
@@ -8606,6 +8606,6 @@ input, select, textarea {
 			
 				.image-banner{
 					height: 400px;
-					width: 400px;
+					width: 100%;
 				}
 			}
