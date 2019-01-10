@@ -7,6 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -8584,4 +8585,27 @@ input, select, textarea {
 			.cover{
 				height: 300px;
 				width: 100%;
+			}
+
+			.image-banner{
+				height: 800px;
+				width: 800px;
+			}
+
+			.container-ban{
+				display:flex;
+				flex-wrap: wrap;
+				justify-content: space-around;
+			}
+
+			@media (max-width:800px){
+				.cover{
+					height: 100px;
+					width: 100%;
+				}
+			
+				.image-banner{
+					height: 400px;
+					width: 400px;
+				}
 			}
