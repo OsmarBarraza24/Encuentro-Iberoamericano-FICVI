@@ -8598,9 +8598,9 @@ input, select, textarea {
 				justify-content: space-around;
 			}
 
-			@media (max-width:676px){
+			@media (max-width:533px){
 				.cover{
-					height: 250px;
+					height: 400px;
 					width: 100%;
 				}
 			
